@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+const { useState, useEffect, useRef } = React;
 
 // ─── TOPICS ──────────────────────────────────────────────────────────────────
 const TOPICS = [
